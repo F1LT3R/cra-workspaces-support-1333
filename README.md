@@ -1,3 +1,3 @@
 # MOVED
 
-https://github.com/F1LT3R/cra-workspaces-poc
+https://github.com/react-workspaces/react-workspaces-playground
